@@ -1,0 +1,8 @@
+
+lsquid:CallToDeprecatedMethod"8Remove this use of "ANTLRInputStream"; it is deprecated.(À½ç¿ÿÿÿÿÿ8»òş¶†.
+lsquid:UselessImportCheck"ARemove this unused import 'org.antlr.v4.runtime.CodePointBuffer'.(²ÂöŞ8Ç¥ö¶†.
+ssquid:UselessImportCheck
+"CRemove this unused import 'java.security.acl.AclNotFoundException'.(Ò³óÛûÿÿÿÿ8»òş¶†.
+lsquid:CallToDeprecatedMethod"8Remove this use of "ANTLRInputStream"; it is deprecated.(À½ç¿ÿÿÿÿÿ8»òş¶†.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ®ÒÙ8Š˜·†.
